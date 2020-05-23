@@ -1,0 +1,4 @@
+LM35 KEYWORD1
+kelvin KEYWORD2
+fahrenheit KEYWORD2
+celcius KEYWORD2

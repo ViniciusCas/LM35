@@ -1,0 +1,11 @@
+Esta biblioteca foi construida para facilitar a implementação e minimizar a quantidade de código quando trabalhar com o sensor de temperatura LM35.
+
+Especificações:
+	Temperature Maximum: 150 ° C
+	Temperature Low: -55 ° C
+	Temperature Heating: + - 00:08 ºC
+	Voltagemde operation: 4V to 30V
+	Operating amperage: 60μ ampere (0.000060)
+
+Datasheet:http://www.ti.com/lit/ds/symlink/lm35.pdf
+	
